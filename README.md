@@ -41,10 +41,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Begin your pages
 
-<!--
+< ! - -
 整段整段的不可见内容
--->
-这是注释符号 in markdown 语法
+- - >
+这是注释符号 in markdown 语法（一定删去其间空格）
 [参见]https://www.jianshu.com/p/9be87e7e15bf
 -->
 
