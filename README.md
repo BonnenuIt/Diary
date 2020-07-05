@@ -48,4 +48,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 [参见]https://www.jianshu.com/p/9be87e7e15bf
 -->
 
-## Hi! This is Yanggang's page! It is used as a private diary temporarily now.
+## Hi ! This is Yanggang's page ! It is used as a private diary temporarily now .
