@@ -49,3 +49,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 
 ## Hi ! This is Yanggang's page ! It is used as a private diary temporarily now .
+
+Here I will share my learning experience and some useful pages or notes from other students and professors.
