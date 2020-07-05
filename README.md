@@ -1,5 +1,5 @@
 
-
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BonnenuIt/BonnenuIt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -41,5 +41,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Begin your pages
 
+<!--
+整段整段的不可见内容
+-->
+这是注释符号 in markdown 语法
+[参见]https://www.jianshu.com/p/9be87e7e15bf
+-->
 
 ## Hi! This is Yanggang's page! It is used as a private diary temporarily now.
