@@ -1,5 +1,5 @@
-# theme: jekyll-theme-architect
-remote_theme: volny/creative-theme-jekyll
+theme: jekyll-theme-architect
+# remote_theme: volny/creative-theme-jekyll
 
 title: Welcome ! !
-description: Hi ! This is Yanggang’s page ! It is used as a private diary temporarily now .
+description: Hi ! This is Yanggang’s page ! It is used as a private learning diary temporarily now .
