@@ -55,7 +55,9 @@ Here I will share my learning experience and some useful pages or notes from oth
 ## Pattern Recognition and Machine Learning
 
 Pattern Recognition and Machine Learning (PRML) from Christopher Bishop
+
 [website (Some useful books here)](https://www.microsoft.com/en-us/research/people/cmbishop/)
+
 [github (Useful code)](https://github.com/PRML)
 
 ## Machine Learning from 李宏毅 (NTU)
