@@ -61,3 +61,18 @@ Pattern Recognition and Machine Learning (PRML) from Christopher Bishop
 [github (Useful code)](https://github.com/PRML)
 
 ## Machine Learning from 李宏毅 (NTU)
+
+## Surface Defect Detection (Links from CSDN and Github)
+
+[Detection方法部分汇总](https://blog.csdn.net/qq_29462849/article/details/104360442)
+
+[yolov3](https://blog.csdn.net/qq_29462849/article/details/84772263)
+
+[GAN](https://blog.csdn.net/qq_27871973/article/details/84068984?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param)
+
+[Surface-defect-Detection-dataset 合集](https://github.com/Eatzhy/Surface-defect-Detection-dataset)
+
+Unet
+
+[湖南大学一硕士论文](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020702749.nh&v=MDQxMTJUM3FUcldNMUZyQ1VSN3FmYnVabkZDbmhVcjdMVkYyNUhyUzRITmJJcHBFYlBJUjhlWDFMdXhZUzdEaDE=)
+
