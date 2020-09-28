@@ -60,7 +60,15 @@ Pattern Recognition and Machine Learning (PRML) from Christopher Bishop
 
 [github (Useful code)](https://github.com/PRML)
 
+[Keras中文文档](https://keras-cn.readthedocs.io/en/latest/for_beginners/keras_windows/)
+
+[极市计算机视觉线上技术分享](https://bbs.cvmart.net/topics/149)
+
 ## Machine Learning from 李宏毅 (NTU)
+
+[Hung-yi Lee's webpage](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+
+[Notes from datawhalechina](https://datawhalechina.github.io/leeml-notes/#/)
 
 ## Surface Defect Detection (Links from CSDN and Github)
 
@@ -75,4 +83,10 @@ Pattern Recognition and Machine Learning (PRML) from Christopher Bishop
 Unet
 
 [湖南大学一硕士论文](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020702749.nh&v=MDQxMTJUM3FUcldNMUZyQ1VSN3FmYnVabkZDbmhVcjdMVkYyNUhyUzRITmJJcHBFYlBJUjhlWDFMdXhZUzdEaDE=)
+
+## Learning materials from MIT
+
+[MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+
+[Signals-and-systems from Prof. Alan V. Oppenheim](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
 
