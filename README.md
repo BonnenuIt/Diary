@@ -64,11 +64,23 @@ Pattern Recognition and Machine Learning (PRML) from Christopher Bishop
 
 [极市计算机视觉线上技术分享](https://bbs.cvmart.net/topics/149)
 
+[逐句阅读100篇核心AI论文 from Bilibili](https://www.bilibili.com/video/BV1xz4y1S7VK)
+
+[数据结构与算法(python)2020春季 from PKU 陈斌](http://gis4g.pku.edu.cn/course/pythonds/)
+
+[Attention (SE block) from Bilibili](https://www.bilibili.com/video/BV1SA41147uA)
+
+[Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
+
+[CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521)
+
 ## Machine Learning from 李宏毅 (NTU)
 
 [Hung-yi Lee's webpage](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
 
 [Notes from datawhalechina](https://datawhalechina.github.io/leeml-notes/#/)
+
+[Videos from Bilibili](https://www.bilibili.com/video/BV1JE411g7XF)
 
 ## Surface Defect Detection (Links from CSDN and Github)
 
@@ -90,3 +102,11 @@ Unet
 
 [Signals-and-systems from Prof. Alan V. Oppenheim](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
 
+## Transfer Learning
+
+[Domain Adaptation (papers with code) from zhaoxin94](https://github.com/zhaoxin94/awesome-domain-adaptation)
+
+[more ... from cchen-cc](https://github.com/cchen-cc/awesome-domain-adaptation#semantic-segmentation)
+
+[CFEA: Collaborative Feature Ensembling Adaptation for Domain Adaptation in Unsupervised Optic Disc and Cup Segmentation](https://arxiv.org/pdf/1910.07638.pdf)
+[Code (Pytorch)](https://github.com/cswin/AWC)
