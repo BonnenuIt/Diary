@@ -105,8 +105,9 @@ Unet
 ## Transfer Learning
 
 [Domain Adaptation (papers with code) from zhaoxin94](https://github.com/zhaoxin94/awesome-domain-adaptation)
-
+ || 
 [more ... from cchen-cc](https://github.com/cchen-cc/awesome-domain-adaptation#semantic-segmentation)
 
 [CFEA: Collaborative Feature Ensembling Adaptation for Domain Adaptation in Unsupervised Optic Disc and Cup Segmentation](https://arxiv.org/pdf/1910.07638.pdf)
-[ || Code (Pytorch)](https://github.com/cswin/AWC)
+ || 
+[Code (Pytorch)](https://github.com/cswin/AWC)
